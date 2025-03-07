@@ -1,0 +1,5 @@
+/Users/olivialee/Downloads/475/wpfbook01/wpfbook01/obj/Debug/net6.0-windows/wpfbook01.csproj.AssemblyReference.cache
+/Users/olivialee/Downloads/475/wpfbook01/wpfbook01/obj/Debug/net6.0-windows/MainWindow.g.cs
+/Users/olivialee/Downloads/475/wpfbook01/wpfbook01/obj/Debug/net6.0-windows/App.g.cs
+/Users/olivialee/Downloads/475/wpfbook01/wpfbook01/obj/Debug/net6.0-windows/wpfbook01_MarkupCompile.cache
+/Users/olivialee/Downloads/475/wpfbook01/wpfbook01/obj/Debug/net6.0-windows/wpfbook01_MarkupCompile.lref
